@@ -29,7 +29,7 @@ var laSanta = new song("La Santa", "Bad Bunny", 3.15, "Reggaeton");
 var laDificil = new song("La Dificil", "Bad Bunny", 3.15, "Reggaeton");
 var safgaera = new song("Safaera", "Bad Bunny", 3.15, "Reggaeton");
 var unaVez = new song("Una Vez", "Bad Bunny", 3.15, "Reggaeton");
-var otra = new song("25/8", "Bad Bunny", 3.15, "Reggaeton");
+var otra = new song("Booker T", "Bad Bunny", 3.15, "Reggaeton");
 
 var array = new Array();
 var album1 = new album("yhlqmdlg", 2020, array);
