@@ -3,6 +3,10 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
+div {
+    background-color: beige;
+}
+
 h1 {
     font-size: 20px;
     color: aquamarine;
