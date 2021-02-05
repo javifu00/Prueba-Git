@@ -1,14 +1,29 @@
-.wrapper{
-    background-color: antiquewhite;
-    font-family: 'Courier New', Courier, monospace;
-}
-
-div {
-    background-color: beige;
+body {
+    margin: 0;
 }
 
 h1 {
     font-size: 20px;
     color: aquamarine;
     background-color: black;
+}
+
+.navbar-wrapper {
+    height: 25vh;
+    width: 100%;
+    display: flex;
+    background-color: whitesmoke;
+}
+
+.nav-options {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+    color: sandybrown;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    font-weight: 500;
+
 }
